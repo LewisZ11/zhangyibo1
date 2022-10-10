@@ -112,7 +112,7 @@
   * Leetcode 18. 4Sum
   * Leetcode 454. 4Sum II
   * Leetcode 277. Find the Celebrity
-  * Leetcode 11. Container With Most Water
+  * 做过 Leetcode 11. Container With Most Water
   * Leetcode 186 Reverse Words in a String II
 * 同向双指针：（个人觉得最难的一类题，可以参考下这里 [TimothyL：Leetcode 同向双指针/滑动窗口类代码模板](https://zhuanlan.zhihu.com/p/390570255)）
   * Leetcode 283. Move Zeroes
@@ -178,13 +178,13 @@
   * Leetcode 863 All Nodes Distance K in Binary Tree
   * Leetcode 1110 Delete Nodes And Return Forest (分治)
 * 二叉搜索树（BST）：BST特征：中序遍历为单调递增的二叉树，换句话说，根节点的值比左子树任意节点值都大，比右子树任意节点值都小，增删查改均为O（h）复杂度，h为树的高度；注意不是所有的BST题目都需要递归，有的题目只需要while循环即可
-  * Leetcode 230 Kth Smallest element in a BST
+  * 做过 Leetcode 230 Kth Smallest element in a BST
   * Leetcode 98 Validate Binary Search Tree
-  * Leetcode 270 Cloest Binary Search Tree Value
+  * 做过 Leetcode 270 Cloest Binary Search Tree Value
   * Leetcode 235 Lowest Common Ancestor of a Binary Search Tree
-  * Leetcode 669 Trim a Binary Search Tree (分治)
-  * Leetcode 700 Search in a Binary Search Tree
-  * Leetcode 108 Convert Sorted Array to Binary Search Tree (分治)
+  * 做过不会 分治 Leetcode 669 Trim a Binary Search Tree (分治)
+  * 做过 Leetcode 700 Search in a Binary Search Tree
+  * 做过 Leetcode 108 Convert Sorted Array to Binary Search Tree (分治)
   * Leetcode 333 Largest BST Subtree (与98类似) (分治)
   * Leetcode 285 Inorder Successor in BST (I, II)
 * 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
