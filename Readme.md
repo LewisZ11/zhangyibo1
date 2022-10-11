@@ -4,12 +4,12 @@
 
 * 基础知识：快速排序（Quick Sort）， 归并排序（Merge Sort）的原理与代码实现。需要能讲明白代码中每一行的目的。快速排序时间复杂度平均状态下O（NlogN），空间复杂度O（1），归并排序最坏情况下时间复杂度O（NlogN），空间复杂度O（N）
 * 入门题目：
-  * Leetcode 148. Sort List
-  * Leetcode 56. Merge Intervals
-  * Leetcode 27. Remove elements
+  * 做过了 可以练练手 Leetcode 148. Sort List
+  * 会做 可以以后练练手 Leetcode 56. Merge Intervals
+  * 可以再做一下 练练手 Leetcode 27. Remove elements
 * 进阶题目：
-  * Leetcode 179. Largest Number
-  * Leetcode 75. Sort Colors
+  * 再做一下 Leetcode 179. Largest Number
+  * 换一种one-pass solution Leetcode 75. Sort Colors
   * Leetcode 215. Kth Largest Element （可以用堆的解法替代）
   * Leetcode 4. Median of Two Sorted Arrays
 
@@ -34,22 +34,22 @@
 
 * 基础知识：各个数据结构的基本原理，增删查改复杂度。
 * Queue题目：
-  * Leetcode 225. Implement Stack using Queues
-  * Leetcode 346. Moving Average from Data Stream
-  * Leetcode 281. Zigzag Iterator
+  * 会做的 Leetcode 225. Implement Stack using Queues
+  * 会做的 Leetcode 346. Moving Average from Data Stream
+  * 值得做的题目 Leetcode 281. Zigzag Iterator
   * Leetcode 1429. First Unique Number
   * Leetcode 54. Spiral Matrix
   * Leetcode 362. Design Hit Counter
 * Stack题目：
-  * Leetcode 155. Min Stack (follow up Leetcode 716 Max Stack)
-  * Leetcode 232. Implement Queue using Stacks
-  * Leetcode 150. Evaluate Reverse Polish Notation
-  * Leetcode 224. Basic Calculator II (I, II, III, IV)
-  * Leetcode 20. Valid Parentheses
-  * Leetcode 1472. Design Browser History
-  * Leetcode 1209. Remove All Adjacent Duplicates in String II
-  * Leetcode 1249. Minimum Remove to Make Valid Parentheses
-  * Leetcode 735. Asteroid Collision
+  * 会做了 Leetcode 155. Min Stack (follow up Leetcode 716 Max Stack)
+  * 脑袋想一下 想出来就OK Leetcode 232. Implement Queue using Stacks
+  * 会做的题目 Leetcode 150. Evaluate Reverse Polish Notation
+  * 再做一下 Leetcode 224. Basic Calculator II (I, II, III, IV)
+  * 不用看了 Leetcode 20. Valid Parentheses
+  * 做过 可以看一下思路 Leetcode 1472. Design Browser History
+  * 做过 可以看一下 Leetcode 1209. Remove All Adjacent Duplicates in String II
+  * 做过 转化成charArray的思路不错 Leetcode 1249. Minimum Remove to Make Valid Parentheses
+  * 可以在做一下 Leetcode 735. Asteroid Collision
 * Hashmap/ Hashset题目：
   * Leetcode 1. Two Sum
   * Leetcode 146. LRU Cache (Python中可以使用OrderedDict来代替)
@@ -105,15 +105,15 @@
   * Leetcode 5. Longest Palindromic Substring
   * Leetcode 647. P**alindromic Substrings**
 * 相向双指针：(以two sum为基础的一系列题)
-  * Leetcode 1. Two Sum (这里使用的是先排序的双指针算法，不同于hashmap做法)
+  * 做过 Leetcode 1. Two Sum (这里使用的是先排序的双指针算法，不同于hashmap做法)
   * Leetcode 167. Two Sum II - Input array is sorted
-  * Leetcode 15. 3Sum
+  * 做过 Leetcode 15. 3Sum
   * Leetcode 16. 3Sum Closest
   * Leetcode 18. 4Sum
   * Leetcode 454. 4Sum II
   * Leetcode 277. Find the Celebrity
   * 做过 Leetcode 11. Container With Most Water
-  * Leetcode 186 Reverse Words in a String II
+  * 做过 Leetcode 186 Reverse Words in a String II
 * 同向双指针：（个人觉得最难的一类题，可以参考下这里 [TimothyL：Leetcode 同向双指针/滑动窗口类代码模板](https://zhuanlan.zhihu.com/p/390570255)）
   * Leetcode 283. Move Zeroes
   * Leetcode 26. Remove Duplicate Numbers in Array
@@ -164,15 +164,15 @@
   * 除了遍历之外多数情况下时间复杂度是指数级别，一般是O(方案数×找到每个方案的时间复杂度)
   * 递归题目都可以用非递归迭代的方法写，但一般实现起来非常麻烦
 * 基于树的DFS：需要记住递归写前序中序后序遍历二叉树的模板
-  * Leetcode 543 Diameter of Binary Tree (分治)
-  * Leetcode 124 Binary Tree Maximum Path Sum (分治)
+  * 做过 Leetcode 543 Diameter of Binary Tree (分治)
+  * 做过 有点难 可以在做 Leetcode 124 Binary Tree Maximum Path Sum (分治)
   * Leetcode 226 Invert Binary Tree (分治)
-  * Leetcode 101 Symmetric Tree (回溯 or 分治)
-  * Leetcode 951 Flip Equivalent Binary Trees (分治)
+  * 做过 Leetcode 101 Symmetric Tree (回溯 or 分治)
+  * 做过 Leetcode 951 Flip Equivalent Binary Trees (分治)
   * Leetcode 236 Lowest Common Ancestor of a Binary Tree (相似题：235、1650) (回溯 or 分治)
   * Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal (分治)
-  * Leetcode 104 Maximum Depth of Binary Tree (回溯 or 分治)
-  * Leetcode 987 Vertical Order Traversal of a Binary Tree
+  * 做过 Leetcode 104 Maximum Depth of Binary Tree (回溯 or 分治)
+  * 做过 注意 minmax 就可以了 Leetcode 987 Vertical Order Traversal of a Binary Tree
   * Leetcode 1485 Clone Binary Tree With Random Pointer
   * Leetcode 572 Subtree of Another Tree (分治)
   * Leetcode 863 All Nodes Distance K in Binary Tree
@@ -188,8 +188,8 @@
   * Leetcode 333 Largest BST Subtree (与98类似) (分治)
   * Leetcode 285 Inorder Successor in BST (I, II)
 * 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
-  * Leetcode 341 Flatten Nested List Iterator (339 364)
-  * Leetcode 394 Decode String
+  * 三道题都是一个讨论 Leetcode 341 Flatten Nested List Iterator (339 364)
+  * 可以再做一下 Leetcode 394 Decode String
   * Leetcode 51 N-Queens (I II基本相同)
   * Leetcode 291 Word Pattern II (I为简单的Hashmap题)
   * Leetcode 126 Word Ladder II （I为BFS题目）
@@ -206,11 +206,11 @@
   * Leetcode 694 Number of Distinct Islands
   * Leetcode 131 Palindrome Partitioning
 * 基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
-  * Leetcode 17 Letter Combinations of a Phone Number
+  * 不用看了 闭着眼睛都会 Leetcode 17 Letter Combinations of a Phone Number
   * Leetcode 39 Combination Sum（I, II, III相似， IV为动态规划题目）
-  * Leetcode 78 Subsets （I, II 重点在于如何去重）
-  * Leetcode 46 Permutation (I, II 重点在于如何去重)
-  * Leetcode 77 Combinations (I, II 重点在于如何去重)
+  * 90 要注意 可以再做几遍Leetcode 78 Subsets （I, II 重点在于如何去重）
+  * 60 和组合的思想差不多 更好做一点 Leetcode 46 Permutation (I, II 重点在于如何去重)
+  * 77已经做过了 Leetcode 77 Combinations (I, II 重点在于如何去重)
   * Leetcode 698 Partition to K Equal Sum Subsets
   * Leetcode 526 Beautiful Arrangement (similar to 46)
 * 记忆化搜索（DFS + Memoization Search）：算是用递归的方式实现动态规划，递归每次返回时同时记录下已访问过的节点特征，避免重复访问同一个节点，可以有效的把指数级别的DFS时间复杂度降为多项式级别; 注意这一类的DFS必须在最后有返回值（分治法），不可以用回溯法; for循环的dp题目都可以用记忆化搜索的方式写，但是不是所有的记忆化搜索题目都可以用for循环的dp方式写。
@@ -218,12 +218,12 @@
   * Leetcode 72 Edit Distance
   * Leetcode 377 Combination Sum IV
   * Leetcode 1235 [Maximum Profit in Job Scheduling](https://link.zhihu.com/?target=https%3A//leetcode.com/explore/item/3950)
-  * Leetcode 1335 Minimum Difficulty of a Job Schedule
-  * Leetcode 1216 Valid Palindrome III
+  * 做过的题目 有点难写 多做几遍 Leetcode 1335 Minimum Difficulty of a Job Schedule
+  * 和516一摸一样 理解了就比较简单了 Leetcode 1216 Valid Palindrome III
   * Leetcode 97 Interleaving String
-  * Leetcode 472 Concatenated Words
+  * 做过了 可以看一下 不用写 Leetcode 472 Concatenated Words
   * Leetcode 403 Frog Jump
-  * Leetcode 329 Longest Increasing Path in a Matrix
+  * 做过了 200的变种 看一下 了解思路 Leetcode 329 Longest Increasing Path in a Matrix
 
 **前缀和（Prefix Sum）**
 
