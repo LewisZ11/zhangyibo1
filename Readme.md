@@ -61,13 +61,13 @@
   * Leetcode 299. Bulls and Cows
   * Leetcode 348 Design Tic-Tac-Toe
 * Heap／Priority Queue题目：
-  * Leetcode 973. K Closest Points
-  * Leetcode 347. Top k Largest Elements
-  * Leetcode 23. Merge K Sorted Lists
-  * Leetcode 264. Ugly Number II
-  * Leetcode 1086. High Five
-  * Leetcode 88. Merge Sorted Arrays
-  * Leetcode 692. Top K Frequent Words
+  * 做过 看一下即可Leetcode 973. K Closest Points
+  * 做过 看一下即可 Leetcode 347. Top k Largest Elements
+  * 做过 看一下即可 想做也行 Leetcode 23. Merge K Sorted Lists
+  * 要再做一下 用动态规划做会更好 Leetcode 264. Ugly Number II
+  * 做过 可以再做一下练手 Leetcode 1086. High Five
+  * 做过 可以想一下思路 从后往前 Leetcode 88. Merge Sorted Arrays
+  * 再做一遍 熟一下讨论 Leetcode 692. Top K Frequent Words
   * Leetcode 378. Kth Smallest Element in a Sorted Matrix
   * Leetcode 295. Find Median from Data Stream （标准解法是双heap，但是SortedDict会非常容易）
   * Leetcode 767. Reorganize String
@@ -78,7 +78,7 @@
 
 * 基础知识：二分法是用来解法基本模板，时间复杂度logN；常见的二分法题目可以分为两大类，显式与隐式，即是否能从字面上一眼看出二分法的特点：要查找的数据是否可以分为两部分，前半部分为X，后半部分为O
 * 显式二分法：
-  * Leetcode 34. Find First and Last Position of Element in Sorted Array
+  * 多做几次 练熟 template Leetcode 34. Find First and Last Position of Element in Sorted Array
   * Leetcode 33. Search in Rotated Sorted Array
   * Leetcode 1095. Find in Mountain Array
   * Leetcode 162. Find Peak Element
@@ -100,15 +100,15 @@
 
 * 基础知识：常见双指针算法分为三类，同向（即两个指针都相同一个方向移动），背向（两个指针从相同或者相邻的位置出发，背向移动直到其中一根指针到达边界为止），相向（两个指针从两边出发一起向中间移动直到两个指针相遇）
 * 背向双指针：(基本上全是回文串的题)
-  * Leetcode 409. Longest Palindrome
-  * Leetcode 125. Valid Palindrome (I、II)
-  * Leetcode 5. Longest Palindromic Substring
-  * Leetcode 647. P**alindromic Substrings**
+  * 会做 脑袋能想出思路就OK 不用做了 Leetcode 409. Longest Palindrome
+  * 再刷一下 记录一下方法 / 可以再看一下思路Leetcode 125. Valid Palindrome (I、II)
+  * 再想一下动态规划写法 Leetcode 5. Longest Palindromic Substring
+  * 再想一下怎么写 Leetcode 647. P**alindromic Substrings**
 * 相向双指针：(以two sum为基础的一系列题)
   * 做过 Leetcode 1. Two Sum (这里使用的是先排序的双指针算法，不同于hashmap做法)
-  * Leetcode 167. Two Sum II - Input array is sorted
+  * 做过 Leetcode 167. Two Sum II - Input array is sorted
   * 做过 Leetcode 15. 3Sum
-  * Leetcode 16. 3Sum Closest
+  * 再做一下 练个手 Leetcode 16. 3Sum Closest
   * Leetcode 18. 4Sum
   * Leetcode 454. 4Sum II
   * Leetcode 277. Find the Celebrity
@@ -132,10 +132,10 @@
 * BFS基本模板（需要记录层数或者不需要记录层数）
 * 多数情况下时间复杂度空间复杂度都是O（N+M），N为节点个数，M为边的个数
 * 基于树的BFS：不需要专门一个set来记录访问过的节点
-  * Leetcode 102 Binary Tree Level Order Traversal
-  * Leetcode 103 Binary Tree Zigzag Level Order Traversal
-  * Leetcode 297 Serialize and Deserialize Binary Tree （很好的BFS和双指针结合的题）
-  * Leetcode 314 Binary Tree Vertical Order Traversal
+  * 会做的题目 可以看一下 Leetcode 102 Binary Tree Level Order Traversal
+  * 多做几遍的题目 Leetcode 103 Binary Tree Zigzag Level Order Traversal
+  * DFS/BFS多尝试 多做几遍 Leetcode 297 Serialize and Deserialize Binary Tree （很好的BFS和双指针结合的题）
+  * 想一下思路 可以做一遍 Leetcode 314 Binary Tree Vertical Order Traversal
 * 基于图的BFS：（一般需要一个set来记录访问过的节点）
   * Leetcode 200. Number of Islands
   * Leetcode 133. Clone Graph
@@ -197,7 +197,7 @@
   * Leetcode 22 Generate Parentheses
   * Leetcode 856 Score of Parentheses
   * Leetcode 301 Remove Invalid Parentheses
-  * Leetcode 37 Sodoku Solver
+  * 再看一下即可 Leetcode 37 Sodoku Solver
   * Leetcode 212 Word Search II （I, II）
   * Leetcode 1087 Brace Expansion
   * Leetcode 399 Evaluate Division
@@ -316,19 +316,19 @@
   * Leetcode 91 Decode Ways
   * Leetcode 639 Decode Ways II
   * Leetcode 712 Minimum ASCII Delete Sum for Two Strings
-  * Leetcode 221 Maximal Square
-  * Leetcode 1277 Count Square Submatrices with All Ones (可以使用221一样的解法)
+  * 可能在下面出现0 有点triky Leetcode 221 Maximal Square
+  * 可以再写一遍 练手感 Leetcode 1277 Count Square Submatrices with All Ones (可以使用221一样的解法)
   * Leetcode 198 House Robber
   * Leetcode 213 House Robber II
   * Leetcode 740 Delete and Earn
   * Leetcode 87 Scramble String
   * Leetcode 1140 Stone Game II
-  * Leetcode 322 Coin Change
-  * Leetcode 518 Coin Change II (01背包型)
+  * 再看一遍 Leetcode 322 Coin Change
+  * 再做一遍 Leetcode 518 Coin Change II (01背包型)
   * Leetcode 1048 Longest String Chain
   * Leetcode 44 [Wildcard Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/wildcard-matching)
   * Leetcode 10 [Regular Expression Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/regular-expression-matching)
   * Leetcode 32 Longest Valid Parentheses
-  * Leetcode 1235 Maximum Profit in Job Scheduling (DP + binary search)
+  * 再做一遍 再思考的题目 Leetcode 1235 Maximum Profit in Job Scheduling (DP + binary search)
   * Leetcode 1043 Partition Array for Maximum Sum
   * Leetcode 926 Flip String to Monotone Increasing
