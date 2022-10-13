@@ -51,13 +51,13 @@
   * 做过 转化成charArray的思路不错 Leetcode 1249. Minimum Remove to Make Valid Parentheses
   * 可以在做一下 Leetcode 735. Asteroid Collision
 * Hashmap/ Hashset题目：
-  * Leetcode 1. Two Sum
+  * 闭着眼睛都会 Leetcode 1. Two Sum
   * Leetcode 146. LRU Cache (Python中可以使用OrderedDict来代替)
   * Leetcode 128. Longest Consecutive Sequence
   * Leetcode 73. Set Matrix Zeroes
-  * Leetcode 380. Insert Delete GetRandom O(1)
-  * Leetcode 49. Group Anagrams
-  * Leetcode 350. Intersection of Two Arrays II
+  * 再想一下思路 Leetcode 380. Insert Delete GetRandom O(1)
+  * 再想一下思路 不用写了 Leetcode 49. Group Anagrams
+  * 再想一下思路 Leetcode 350. Intersection of Two Arrays II
   * Leetcode 299. Bulls and Cows
   * Leetcode 348 Design Tic-Tac-Toe
 * Heap／Priority Queue题目：
@@ -111,19 +111,19 @@
   * 再做一下 练个手 Leetcode 16. 3Sum Closest
   * Leetcode 18. 4Sum
   * Leetcode 454. 4Sum II
-  * Leetcode 277. Find the Celebrity
+  * 再做一下 不会写 Leetcode 277. Find the Celebrity
   * 做过 Leetcode 11. Container With Most Water
   * 做过 Leetcode 186 Reverse Words in a String II
 * 同向双指针：（个人觉得最难的一类题，可以参考下这里 [TimothyL：Leetcode 同向双指针/滑动窗口类代码模板](https://zhuanlan.zhihu.com/p/390570255)）
-  * Leetcode 283. Move Zeroes
-  * Leetcode 26. Remove Duplicate Numbers in Array
-  * Leetcode 395. Longest Substring with At Least K Repeating Characters
-  * Leetcode 340. Longest Substring with At Most K Distinct Characters
-  * Leetcode 424. Longest Repeating Character Replacement
-  * Leetcode 76. Minimum Window Substring
-  * Leetcode 3. Longest Substring Without Repeating Characters
-  * Leetcode 1004 Max Consecutive Ones III
-  * Leetcode 1658 Minimum Operations to Reduce X to Zero
+  * 可以再看一下思路 Leetcode 283. Move Zeroes
+  * 和283思路差不多 再看一下思路 Leetcode 26. Remove Duplicate Numbers in Array
+  * 重新再写一遍 Leetcode 395. Longest Substring with At Least K Repeating Characters
+  * 标准滑动窗口算法 Leetcode 340. Longest Substring with At Most K Distinct Characters
+  * 看一下另一种写法 本质上和340差不多 都是一类题目 Leetcode 424. Longest Repeating Character Replacement
+  * 再写一遍 Leetcode 76. Minimum Window Substring
+  * 想一下思路就OK 340想法一致 Leetcode 3. Longest Substring Without Repeating Characters
+  * 和340差不多 会做 想一下思路就OK Leetcode 1004 Max Consecutive Ones III
+  * 转化一下思路 和340差不多 想一下思路就OK Leetcode 1658 Minimum Operations to Reduce X to Zero
 
  **宽度优先搜索（BFS）：** 面试中最常考的
 
@@ -141,12 +141,12 @@
   * Leetcode 133. Clone Graph
   * Leetcode 127. Word Ladder
   * Leetcode 490. The Maze
-  * Leetcode 323. Connected Component in Undirected Graph
-  * Leetcode 130. Surrounded Regions
+  * UNion-Find 的题目 想一下思路 Leetcode 323. Connected Component in Undirected Graph
+  * 想一下思路 很简单 Leetcode 130. Surrounded Regions
   * Leetcode 752. Open the Lock
   * Leetcode 815. Bus Routes
-  * Leetcode 1091. Shortest Path in Binary Matrix
-  * Leetcode 542. 01 Matrix
+  * 很常规的题目 想一下思路 Leetcode 1091. Shortest Path in Binary Matrix
+  * 再做一下这道题 Leetcode 542. 01 Matrix
   * Leetcode 1293. Shortest Path in a Grid with Obstacles Elimination
   * Leetcode 417. Pacific Atlantic Water Flow
 * 拓扑排序：（[https://**zh.wikipedia.org/wiki/%**E6%8B%93%E6%92%B2%E6%8E%92%E5%BA%8F](https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E6%258B%2593%25E6%2592%25B2%25E6%258E%2592%25E5%25BA%258F)）
