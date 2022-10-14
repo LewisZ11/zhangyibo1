@@ -25,8 +25,8 @@
 注意：快慢指针和链表反转几乎是所有链表类问题的基础，尤其是反转链表，代码很短，建议直接背熟。
 
 * 进阶题目:
-  * Leetcode 160. Intersection of Two Linked Lists
-  * Leetcode 141. Linked List Cycle (Linked List Cycle II)
+  * 再看一下那个O(1)SOLUTION的方法 Leetcode 160. Intersection of Two Linked Lists
+  * 快慢指针看一下相同 Leetcode 141. Linked List Cycle (Linked List Cycle II)
   * Leetcode 92. Reverse Linked List II
   * Leetcode 328. Odd Even Linked List
 
@@ -87,7 +87,7 @@
   * Leetcode 240. Search a 2D Matrix II
 * 隐式二分法：
   * Leetcode 69. Sqrt(x)
-  * Leetcode 540. Single Element in a Sorted Array
+  * 再想一下思路 不用写了 Leetcode 540. Single Element in a Sorted Array
   * Leetcode 644. Maximum Average Subarray II
   * Leetcode 528. Random Pick with Weight
   * Leetcode 1300. Sum of Mutated Array Closest to Target
@@ -194,8 +194,8 @@
   * Leetcode 291 Word Pattern II (I为简单的Hashmap题)
   * Leetcode 126 Word Ladder II （I为BFS题目）
   * Leetcode 93 Restore IP Addresses
-  * Leetcode 22 Generate Parentheses
-  * Leetcode 856 Score of Parentheses
+  * 做过 Leetcode 22 Generate Parentheses
+  * 再做 不太会 和stack相关 Leetcode 856 Score of Parentheses
   * Leetcode 301 Remove Invalid Parentheses
   * 再看一下即可 Leetcode 37 Sodoku Solver
   * Leetcode 212 Word Search II （I, II）
@@ -300,11 +300,11 @@
   * Leetcode 64 Minimum Path Sum
   * Leetcode 368 Largest Divisible Subset (接龙型dp)
   * Leetcode 300 Longest Increasing Subsequence (接龙型dp)
-  * Leetcode 354 Russian Doll Envelopes (接龙型dp， 300的2D版)
+  * 再做一遍的题目 Leetcode 354 Russian Doll Envelopes (接龙型dp， 300的2D版)
   * Leetcode 256 Paint House
   * Leetcode 121 Best Time to Buy and Sell Stock
-  * Leetcode 55 Jump Game
-  * Leetcode 45 Jump Game II
+  * 思考一下55和45的逻辑 可做可不做 Leetcode 55 Jump Game
+  * 思考一下55和45的逻辑 Leetcode 45 Jump Game II
   * 可以再做一遍 Leetcode 132 Palindrome Partitioning II
   * Leetcode 312 Burst Balloons (区间型dp)
   * 看一下思路即可 Leetcode 1143 Longest Common Subsequence (前缀型dp)
@@ -318,9 +318,9 @@
   * Leetcode 712 Minimum ASCII Delete Sum for Two Strings
   * 可能在下面出现0 有点triky Leetcode 221 Maximal Square
   * 可以再写一遍 练手感 Leetcode 1277 Count Square Submatrices with All Ones (可以使用221一样的解法)
-  * Leetcode 198 House Robber
-  * Leetcode 213 House Robber II
-  * Leetcode 740 Delete and Earn
+  * 想一下思路 Leetcode 198 House Robber
+  * 198会做 213就会做了 Leetcode 213 House Robber II
+  * 和198一样 再做一遍 Leetcode 740 Delete and Earn
   * Leetcode 87 Scramble String
   * Leetcode 1140 Stone Game II
   * 再看一遍 Leetcode 322 Coin Change
@@ -330,5 +330,5 @@
   * Leetcode 10 [Regular Expression Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/regular-expression-matching)
   * Leetcode 32 Longest Valid Parentheses
   * 再做一遍 再思考的题目 Leetcode 1235 Maximum Profit in Job Scheduling (DP + binary search)
-  * Leetcode 1043 Partition Array for Maximum Sum
-  * Leetcode 926 Flip String to Monotone Increasing
+  * 再做一遍 第一遍没看清题目意思 Leetcode 1043 Partition Array for Maximum Sum
+  * 想想思路 和dp不太像 Leetcode 926 Flip String to Monotone Increasing
