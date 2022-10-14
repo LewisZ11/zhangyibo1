@@ -230,10 +230,10 @@
 * 基础知识：前缀和本质上是在一个list当中，用O（N）的时间提前算好从第0个数字到第i个数字之和，在后续使用中可以在O（1）时间内计算出第i到第j个数字之和，一般很少单独作为一道题出现，而是很多题目中的用到的一个小技巧
 * 常见题目：
   * Leetcode 53 Maximum Subarray
-  * Leetcode 1423 Maximum Points You Can Obtain from Cards
-  * Leetcode 1031 Maximum Sum of Two Non-Overlapping Subarrays
+  * 固定length 的滑动窗口 Leetcode 1423 Maximum Points You Can Obtain from Cards
+  * 再做一遍 Leetcode 1031 Maximum Sum of Two Non-Overlapping Subarrays
   * Leetcode 523 Continuous Subarray Sum
-  * Leetcode 304 Range Sum Query 2D - Immutable
+  * 再看一下 Leetcode 304 Range Sum Query 2D - Immutable
 
 ---
 
@@ -305,16 +305,16 @@
   * Leetcode 121 Best Time to Buy and Sell Stock
   * Leetcode 55 Jump Game
   * Leetcode 45 Jump Game II
-  * Leetcode 132 Palindrome Partitioning II
+  * 可以再做一遍 Leetcode 132 Palindrome Partitioning II
   * Leetcode 312 Burst Balloons (区间型dp)
-  * Leetcode 1143 Longest Common Subsequence (前缀型dp)
-  * Leetcode 1062 Longest Repeating Substring (dp方法与longest common substring一致)
-  * Leetcode 718 Maximum Length of Repeated Subarray (和1062本质上一样)
-  * Leetcode 174 Dungeon Game
-  * Leetcode 115 Distinct Subsequences
-  * Leetcode 72 Edit Distance
-  * Leetcode 91 Decode Ways
-  * Leetcode 639 Decode Ways II
+  * 看一下思路即可 Leetcode 1143 Longest Common Subsequence (前缀型dp)
+  * 可以再练习一下二分法 和1143感觉没什么关系 Leetcode 1062 Longest Repeating Substring (dp方法与longest common substring一致)
+  * 思考718和1143的区别和corner case 一个是必须接上 Leetcode 718 Maximum Length of Repeated Subarray (和1062本质上一样)
+  * 再做一遍 考虑 Leetcode 174 Dungeon Game
+  * 再做一遍 思考 718，1143，115 关系Leetcode 115 Distinct Subsequences
+  * 再做一遍 思考 72和上面4个的关系 Leetcode 72 Edit Distance
+  * 承接 想一下思路Leetcode 91 Decode Ways
+  * 再做一遍 Leetcode 639 Decode Ways II
   * Leetcode 712 Minimum ASCII Delete Sum for Two Strings
   * 可能在下面出现0 有点triky Leetcode 221 Maximal Square
   * 可以再写一遍 练手感 Leetcode 1277 Count Square Submatrices with All Ones (可以使用221一样的解法)
