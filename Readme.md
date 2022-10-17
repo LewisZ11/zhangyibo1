@@ -68,7 +68,7 @@
   * 做过 可以再做一下练手 Leetcode 1086. High Five
   * 做过 可以想一下思路 从后往前 Leetcode 88. Merge Sorted Arrays
   * 再做一遍 熟一下讨论 Leetcode 692. Top K Frequent Words
-  * Leetcode 378. Kth Smallest Element in a Sorted Matrix
+  * 再做一遍 Leetcode 378. Kth Smallest Element in a Sorted Matrix
   * Leetcode 295. Find Median from Data Stream （标准解法是双heap，但是SortedDict会非常容易）
   * Leetcode 767. Reorganize String
   * Leetcode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (这个题用单调双端队列、TreeMap、双heap都可以)
@@ -80,8 +80,8 @@
 * 显式二分法：
   * 多做几次 练熟 template Leetcode 34. Find First and Last Position of Element in Sorted Array
   * Leetcode 33. Search in Rotated Sorted Array
-  * Leetcode 1095. Find in Mountain Array
-  * Leetcode 162. Find Peak Element
+  * 可以再做几遍 Leetcode 1095. Find in Mountain Array
+  * 想一下思路 Leetcode 162. Find Peak Element
   * Leetcode 278. First Bad Version
   * Leetcode 74. Search a 2D Matrix
   * Leetcode 240. Search a 2D Matrix II
@@ -91,7 +91,7 @@
   * Leetcode 644. Maximum Average Subarray II
   * Leetcode 528. Random Pick with Weight
   * Leetcode 1300. Sum of Mutated Array Closest to Target
-  * Leetcode 1060. Missing Element in Sorted Array
+  * 再做一下 Leetcode 1060. Missing Element in Sorted Array
   * Leetcode 1062. Longest Repeating Substring
   * Leetcode 1891. Cutting Ribbons
   * Leetcode 410. Split Array Largest Sum (与1891类似)
@@ -137,24 +137,24 @@
   * DFS/BFS多尝试 多做几遍 Leetcode 297 Serialize and Deserialize Binary Tree （很好的BFS和双指针结合的题）
   * 想一下思路 可以做一遍 Leetcode 314 Binary Tree Vertical Order Traversal
 * 基于图的BFS：（一般需要一个set来记录访问过的节点）
-  * Leetcode 200. Number of Islands
-  * Leetcode 133. Clone Graph
+  * 闭着眼睛都会的题目 Leetcode 200. Number of Islands
+  * 想一下思路 Leetcode 133. Clone Graph
   * Leetcode 127. Word Ladder
   * Leetcode 490. The Maze
   * UNion-Find 的题目 想一下思路 Leetcode 323. Connected Component in Undirected Graph
   * 想一下思路 很简单 Leetcode 130. Surrounded Regions
-  * Leetcode 752. Open the Lock
-  * Leetcode 815. Bus Routes
+  * 想一下思路 Leetcode 752. Open the Lock
+  * 再做一下 Leetcode 815. Bus Routes
   * 很常规的题目 想一下思路 Leetcode 1091. Shortest Path in Binary Matrix
   * 再做一下这道题 Leetcode 542. 01 Matrix
-  * Leetcode 1293. Shortest Path in a Grid with Obstacles Elimination
+  * 这道题看一下思路 想不想写无所谓 Leetcode 1293. Shortest Path in a Grid with Obstacles Elimination
   * Leetcode 417. Pacific Atlantic Water Flow
 * 拓扑排序：（[https://**zh.wikipedia.org/wiki/%**E6%8B%93%E6%92%B2%E6%8E%92%E5%BA%8F](https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E6%258B%2593%25E6%2592%25B2%25E6%258E%2592%25E5%25BA%258F)）
-  * Leetcode 207 Course Schedule （I, II）
-  * Leetcode 444 Sequence Reconstruction
-  * Leetcode 269 Alien Dictionary
-  * Leetcode 310 Minimum Height Trees
-  * Leetcode 366 Find Leaves of Binary Tree
+  * 想一下思路 用bfs做 Leetcode 207 Course Schedule （I, II）
+  * 不会做 Leetcode 444 Sequence Reconstruction
+  * 再做一下这道题 Leetcode 269 Alien Dictionary
+  * 再想一下 也可以再写一遍 Leetcode 310 Minimum Height Trees
+  * 这道题简单 想一下思路即可 Leetcode 366 Find Leaves of Binary Tree
 
  **深度优先搜索（DFS）：** 面试中最常考的（分类的稍微有点粗糙了，没有细分出回溯/分治来，准备找个时间给每个DFS的题标记下是哪种DFS）
 
@@ -166,7 +166,7 @@
 * 基于树的DFS：需要记住递归写前序中序后序遍历二叉树的模板
   * 做过 Leetcode 543 Diameter of Binary Tree (分治)
   * 做过 有点难 可以在做 Leetcode 124 Binary Tree Maximum Path Sum (分治)
-  * Leetcode 226 Invert Binary Tree (分治)
+  * 想一下即可 Leetcode 226 Invert Binary Tree (分治)
   * 做过 Leetcode 101 Symmetric Tree (回溯 or 分治)
   * 做过 Leetcode 951 Flip Equivalent Binary Trees (分治)
   * Leetcode 236 Lowest Common Ancestor of a Binary Tree (相似题：235、1650) (回溯 or 分治)
@@ -191,7 +191,7 @@
   * 三道题都是一个讨论 Leetcode 341 Flatten Nested List Iterator (339 364)
   * 可以再做一下 Leetcode 394 Decode String
   * Leetcode 51 N-Queens (I II基本相同)
-  * Leetcode 291 Word Pattern II (I为简单的Hashmap题)
+  * 不会做 再做一遍 Leetcode 291 Word Pattern II (I为简单的Hashmap题)
   * Leetcode 126 Word Ladder II （I为BFS题目）
   * Leetcode 93 Restore IP Addresses
   * 做过 Leetcode 22 Generate Parentheses
@@ -199,20 +199,20 @@
   * Leetcode 301 Remove Invalid Parentheses
   * 再看一下即可 Leetcode 37 Sodoku Solver
   * Leetcode 212 Word Search II （I, II）
-  * Leetcode 1087 Brace Expansion
+  * 做过了 看一下思路 Leetcode 1087 Brace Expansion
   * Leetcode 399 Evaluate Division
   * Leetcode 1274 Number of Ships in a Rectangle
-  * Leetcode 1376 Time Needed to Inform All Employees
+  * 转化成树的结构 Leetcode 1376 Time Needed to Inform All Employees
   * Leetcode 694 Number of Distinct Islands
-  * Leetcode 131 Palindrome Partitioning
+  * 好做 可以再做一下练手 Leetcode 131 Palindrome Partitioning
 * 基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
   * 不用看了 闭着眼睛都会 Leetcode 17 Letter Combinations of a Phone Number
   * Leetcode 39 Combination Sum（I, II, III相似， IV为动态规划题目）
   * 90 要注意 可以再做几遍Leetcode 78 Subsets （I, II 重点在于如何去重）
   * 60 和组合的思想差不多 更好做一点 Leetcode 46 Permutation (I, II 重点在于如何去重)
   * 77已经做过了 Leetcode 77 Combinations (I, II 重点在于如何去重)
-  * Leetcode 698 Partition to K Equal Sum Subsets
-  * Leetcode 526 Beautiful Arrangement (similar to 46)
+  * 可以再做一下练手 Leetcode 698 Partition to K Equal Sum Subsets
+  * 排列问题 Leetcode 526 Beautiful Arrangement (similar to 46)
 * 记忆化搜索（DFS + Memoization Search）：算是用递归的方式实现动态规划，递归每次返回时同时记录下已访问过的节点特征，避免重复访问同一个节点，可以有效的把指数级别的DFS时间复杂度降为多项式级别; 注意这一类的DFS必须在最后有返回值（分治法），不可以用回溯法; for循环的dp题目都可以用记忆化搜索的方式写，但是不是所有的记忆化搜索题目都可以用for循环的dp方式写。
   * Leetcode 139 Word Break II
   * Leetcode 72 Edit Distance
