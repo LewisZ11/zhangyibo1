@@ -37,9 +37,9 @@
   * 会做的 Leetcode 225. Implement Stack using Queues
   * 会做的 Leetcode 346. Moving Average from Data Stream
   * 值得做的题目 Leetcode 281. Zigzag Iterator
-  * Leetcode 1429. First Unique Number
+  * 再做一遍 Leetcode 1429. First Unique Number
   * Leetcode 54. Spiral Matrix
-  * Leetcode 362. Design Hit Counter
+  * 想一下思路 Leetcode 362. Design Hit Counter
 * Stack题目：
   * 会做了 Leetcode 155. Min Stack (follow up Leetcode 716 Max Stack)
   * 脑袋想一下 想出来就OK Leetcode 232. Implement Queue using Stacks
@@ -93,7 +93,7 @@
   * Leetcode 1300. Sum of Mutated Array Closest to Target
   * 再做一下 Leetcode 1060. Missing Element in Sorted Array
   * Leetcode 1062. Longest Repeating Substring
-  * Leetcode 1891. Cutting Ribbons
+  * 再看一下思路 两题选一题 Leetcode 1891. Cutting Ribbons
   * Leetcode 410. Split Array Largest Sum (与1891类似)
 
 **双指针（2 Pointer）：**
