@@ -10,8 +10,8 @@
 * 进阶题目：
   * 再做一下 Leetcode 179. Largest Number
   * 换一种one-pass solution Leetcode 75. Sort Colors
-  * Leetcode 215. Kth Largest Element （可以用堆的解法替代）
-  * Leetcode 4. Median of Two Sorted Arrays
+  * 再做一下 Leetcode 215. Kth Largest Element （可以用堆的解法替代）
+  * 再写一下那个方法 Leetcode 4. Median of Two Sorted Arrays
 
 注意：后两题是与快速排序非常相似的快速选择（Quick Select）算法，面试中很常考
 
@@ -19,8 +19,8 @@
 
 * 基础知识：链表如何实现，如何遍历链表。链表可以保证头部尾部插入删除操作都是O（1），查找任意元素位置O（N）
 * 基础题目：
-  * Leetcode 206. Reverse Linked List
-  * Leetcode 876. Middle of the Linked List
+  * next.pre.cur Leetcode 206. Reverse Linked List
+  * 很简单 快慢指针 Leetcode 876. Middle of the Linked List
 
 注意：快慢指针和链表反转几乎是所有链表类问题的基础，尤其是反转链表，代码很短，建议直接背熟。
 
@@ -28,7 +28,7 @@
   * 再看一下那个O(1)SOLUTION的方法 Leetcode 160. Intersection of Two Linked Lists
   * 快慢指针看一下相同 Leetcode 141. Linked List Cycle (Linked List Cycle II)
   * Leetcode 92. Reverse Linked List II
-  * Leetcode 328. Odd Even Linked List
+  * 再做一遍 注意corner case Leetcode 328. Odd Even Linked List
 
 **堆（Heap or Priority Queue）、栈（Stack）、队列（Queue）、哈希表类（Hashmap、Hashset）：**
 
@@ -53,8 +53,8 @@
 * Hashmap/ Hashset题目：
   * 闭着眼睛都会 Leetcode 1. Two Sum
   * Leetcode 146. LRU Cache (Python中可以使用OrderedDict来代替)
-  * Leetcode 128. Longest Consecutive Sequence
-  * Leetcode 73. Set Matrix Zeroes
+  * 想一下思路 可以再写一下 Leetcode 128. Longest Consecutive Sequence
+  * 想一下思路 Leetcode 73. Set Matrix Zeroes
   * 再想一下思路 Leetcode 380. Insert Delete GetRandom O(1)
   * 再想一下思路 不用写了 Leetcode 49. Group Anagrams
   * 再想一下思路 Leetcode 350. Intersection of Two Arrays II
@@ -72,7 +72,7 @@
   * Leetcode 295. Find Median from Data Stream （标准解法是双heap，但是SortedDict会非常容易）
   * Leetcode 767. Reorganize String
   * Leetcode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (这个题用单调双端队列、TreeMap、双heap都可以)
-  * Leetcode 895. Maximum Frequency Stack
+  * 想一下思路 Leetcode 895. Maximum Frequency Stack
 
 **二分法（Binary Search）：**
 
@@ -84,7 +84,7 @@
   * 想一下思路 Leetcode 162. Find Peak Element
   * Leetcode 278. First Bad Version
   * Leetcode 74. Search a 2D Matrix
-  * Leetcode 240. Search a 2D Matrix II
+  * 再写一下练手 和二分法关系不大 Leetcode 240. Search a 2D Matrix II
 * 隐式二分法：
   * Leetcode 69. Sqrt(x)
   * 再想一下思路 不用写了 Leetcode 540. Single Element in a Sorted Array
@@ -139,8 +139,8 @@
 * 基于图的BFS：（一般需要一个set来记录访问过的节点）
   * 闭着眼睛都会的题目 Leetcode 200. Number of Islands
   * 想一下思路 Leetcode 133. Clone Graph
-  * Leetcode 127. Word Ladder
-  * Leetcode 490. The Maze
+  * 再做一下 练手 Leetcode 127. Word Ladder
+  * 再做一下 练手 Leetcode 490. The Maze
   * UNion-Find 的题目 想一下思路 Leetcode 323. Connected Component in Undirected Graph
   * 想一下思路 很简单 Leetcode 130. Surrounded Regions
   * 想一下思路 Leetcode 752. Open the Lock
@@ -190,7 +190,7 @@
 * 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
   * 三道题都是一个讨论 Leetcode 341 Flatten Nested List Iterator (339 364)
   * 可以再做一下 Leetcode 394 Decode String
-  * Leetcode 51 N-Queens (I II基本相同)
+  * 可以再做一下练手 Leetcode 51 N-Queens (I II基本相同)
   * 不会做 再做一遍 Leetcode 291 Word Pattern II (I为简单的Hashmap题)
   * Leetcode 126 Word Ladder II （I为BFS题目）
   * Leetcode 93 Restore IP Addresses
@@ -207,7 +207,7 @@
   * 好做 可以再做一下练手 Leetcode 131 Palindrome Partitioning
 * 基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
   * 不用看了 闭着眼睛都会 Leetcode 17 Letter Combinations of a Phone Number
-  * Leetcode 39 Combination Sum（I, II, III相似， IV为动态规划题目）
+  * 想一下如何去重的思路 Leetcode 39 Combination Sum（I, II, III相似， IV为动态规划题目）
   * 90 要注意 可以再做几遍Leetcode 78 Subsets （I, II 重点在于如何去重）
   * 60 和组合的思想差不多 更好做一点 Leetcode 46 Permutation (I, II 重点在于如何去重)
   * 77已经做过了 Leetcode 77 Combinations (I, II 重点在于如何去重)
@@ -216,7 +216,7 @@
 * 记忆化搜索（DFS + Memoization Search）：算是用递归的方式实现动态规划，递归每次返回时同时记录下已访问过的节点特征，避免重复访问同一个节点，可以有效的把指数级别的DFS时间复杂度降为多项式级别; 注意这一类的DFS必须在最后有返回值（分治法），不可以用回溯法; for循环的dp题目都可以用记忆化搜索的方式写，但是不是所有的记忆化搜索题目都可以用for循环的dp方式写。
   * Leetcode 139 Word Break II
   * Leetcode 72 Edit Distance
-  * Leetcode 377 Combination Sum IV
+  * 就是经典的dpcoins问题 Leetcode 377 Combination Sum IV
   * Leetcode 1235 [Maximum Profit in Job Scheduling](https://link.zhihu.com/?target=https%3A//leetcode.com/explore/item/3950)
   * 做过的题目 有点难写 多做几遍 Leetcode 1335 Minimum Difficulty of a Job Schedule
   * 和516一摸一样 理解了就比较简单了 Leetcode 1216 Valid Palindrome III
@@ -232,7 +232,7 @@
   * Leetcode 53 Maximum Subarray
   * 固定length 的滑动窗口 Leetcode 1423 Maximum Points You Can Obtain from Cards
   * 再做一遍 Leetcode 1031 Maximum Sum of Two Non-Overlapping Subarrays
-  * Leetcode 523 Continuous Subarray Sum
+  * 想一下思路 可做可不做 Leetcode 523 Continuous Subarray Sum
   * 再看一下 Leetcode 304 Range Sum Query 2D - Immutable
 
 ---
@@ -297,7 +297,7 @@
   * Leetcode 674 Longest Continuous Increasing Subsequence (接龙型dp)
   * Leetcode 62 Unique Paths II
   * Leetcode 70 Climbing Stairs
-  * Leetcode 64 Minimum Path Sum
+  * 会做的题目 Leetcode 64 Minimum Path Sum
   * Leetcode 368 Largest Divisible Subset (接龙型dp)
   * Leetcode 300 Longest Increasing Subsequence (接龙型dp)
   * 再做一遍的题目 Leetcode 354 Russian Doll Envelopes (接龙型dp， 300的2D版)
