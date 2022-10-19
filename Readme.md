@@ -82,7 +82,7 @@
   * Leetcode 33. Search in Rotated Sorted Array
   * 可以再做几遍 Leetcode 1095. Find in Mountain Array
   * 想一下思路 Leetcode 162. Find Peak Element
-  * Leetcode 278. First Bad Version
+  * 会做 Leetcode 278. First Bad Version
   * Leetcode 74. Search a 2D Matrix
   * 再写一下练手 和二分法关系不大 Leetcode 240. Search a 2D Matrix II
 * 隐式二分法：
@@ -214,13 +214,13 @@
   * 可以再做一下练手 Leetcode 698 Partition to K Equal Sum Subsets
   * 排列问题 Leetcode 526 Beautiful Arrangement (similar to 46)
 * 记忆化搜索（DFS + Memoization Search）：算是用递归的方式实现动态规划，递归每次返回时同时记录下已访问过的节点特征，避免重复访问同一个节点，可以有效的把指数级别的DFS时间复杂度降为多项式级别; 注意这一类的DFS必须在最后有返回值（分治法），不可以用回溯法; for循环的dp题目都可以用记忆化搜索的方式写，但是不是所有的记忆化搜索题目都可以用for循环的dp方式写。
-  * Leetcode 139 Word Break II
-  * Leetcode 72 Edit Distance
+  * 想一下思路就可以 Leetcode 139 Word Break II
+  * 和97题一样的逻辑 Leetcode 72 Edit Distance
   * 就是经典的dpcoins问题 Leetcode 377 Combination Sum IV
   * Leetcode 1235 [Maximum Profit in Job Scheduling](https://link.zhihu.com/?target=https%3A//leetcode.com/explore/item/3950)
   * 做过的题目 有点难写 多做几遍 Leetcode 1335 Minimum Difficulty of a Job Schedule
   * 和516一摸一样 理解了就比较简单了 Leetcode 1216 Valid Palindrome III
-  * Leetcode 97 Interleaving String
+  * dp方法 和字符串那几题可以一起总结 Leetcode 97 Interleaving String
   * 做过了 可以看一下 不用写 Leetcode 472 Concatenated Words
   * Leetcode 403 Frog Jump
   * 做过了 200的变种 看一下 了解思路 Leetcode 329 Longest Increasing Path in a Matrix
@@ -229,7 +229,7 @@
 
 * 基础知识：前缀和本质上是在一个list当中，用O（N）的时间提前算好从第0个数字到第i个数字之和，在后续使用中可以在O（1）时间内计算出第i到第j个数字之和，一般很少单独作为一道题出现，而是很多题目中的用到的一个小技巧
 * 常见题目：
-  * Leetcode 53 Maximum Subarray
+  * 我觉得是dp的题目 会做 想一下思路 Leetcode 53 Maximum Subarray
   * 固定length 的滑动窗口 Leetcode 1423 Maximum Points You Can Obtain from Cards
   * 再做一遍 Leetcode 1031 Maximum Sum of Two Non-Overlapping Subarrays
   * 想一下思路 可做可不做 Leetcode 523 Continuous Subarray Sum
@@ -326,7 +326,7 @@
   * 再看一遍 Leetcode 322 Coin Change
   * 再做一遍 Leetcode 518 Coin Change II (01背包型)
   * Leetcode 1048 Longest String Chain
-  * Leetcode 44 [Wildcard Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/wildcard-matching)
+  * 和72之类的很像 都是编辑字符串的题目 Leetcode 44 [Wildcard Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/wildcard-matching)
   * Leetcode 10 [Regular Expression Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/regular-expression-matching)
   * Leetcode 32 Longest Valid Parentheses
   * 再做一遍 再思考的题目 Leetcode 1235 Maximum Profit in Job Scheduling (DP + binary search)
