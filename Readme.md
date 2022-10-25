@@ -27,7 +27,7 @@
 * 进阶题目:
   * 再看一下那个O(1)SOLUTION的方法 Leetcode 160. Intersection of Two Linked Lists
   * 快慢指针看一下相同 Leetcode 141. Linked List Cycle (Linked List Cycle II)
-  * Leetcode 92. Reverse Linked List II
+  * 再做一遍 练手 Leetcode 92. Reverse Linked List II
   * 再做一遍 注意corner case Leetcode 328. Odd Even Linked List
 
 **堆（Heap or Priority Queue）、栈（Stack）、队列（Queue）、哈希表类（Hashmap、Hashset）：**
@@ -38,7 +38,7 @@
   * 会做的 Leetcode 346. Moving Average from Data Stream
   * 值得做的题目 Leetcode 281. Zigzag Iterator
   * 再做一遍 Leetcode 1429. First Unique Number
-  * Leetcode 54. Spiral Matrix
+  * 再做一下 Leetcode 54. Spiral Matrix
   * 想一下思路 Leetcode 362. Design Hit Counter
 * Stack题目：
   * 会做了 Leetcode 155. Min Stack (follow up Leetcode 716 Max Stack)
@@ -69,9 +69,9 @@
   * 做过 可以想一下思路 从后往前 Leetcode 88. Merge Sorted Arrays
   * 再做一遍 熟一下讨论 Leetcode 692. Top K Frequent Words
   * 再做一遍 Leetcode 378. Kth Smallest Element in a Sorted Matrix
-  * Leetcode 295. Find Median from Data Stream （标准解法是双heap，但是SortedDict会非常容易）
-  * Leetcode 767. Reorganize String
-  * Leetcode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (这个题用单调双端队列、TreeMap、双heap都可以)
+  * 再做一遍 Leetcode 295. Find Median from Data Stream （标准解法是双heap，但是SortedDict会非常容易）
+  * 再做一下 想一下那个思路 Leetcode 767. Reorganize String
+  * 单调队列尝试再做一下 想一下思路 Leetcode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (这个题用单调双端队列、TreeMap、双heap都可以)
   * 想一下思路 Leetcode 895. Maximum Frequency Stack
 
 **二分法（Binary Search）：**
@@ -90,7 +90,7 @@
   * 再想一下思路 不用写了 Leetcode 540. Single Element in a Sorted Array
   * Leetcode 644. Maximum Average Subarray II
   * Leetcode 528. Random Pick with Weight
-  * Leetcode 1300. Sum of Mutated Array Closest to Target
+  * 做过了 可以看一下思路 Leetcode 1300. Sum of Mutated Array Closest to Target
   * 再做一下 Leetcode 1060. Missing Element in Sorted Array
   * Leetcode 1062. Longest Repeating Substring
   * 再看一下思路 两题选一题 Leetcode 1891. Cutting Ribbons
@@ -254,7 +254,7 @@
 * 常见题目：
   * Leetcode 208 Implement Trie (Prefix Tree)
   * Leetcode 211 Design Add and Search Words Data Structure
-  * Leetcode 1268 Search Suggestions System
+  * 再做一下 Leetcode 1268 Search Suggestions System
   * Leetcode 212 Word Search II
   * Leetcode 1166 Design File System
 
@@ -295,8 +295,8 @@
 * 基础知识：这里指的是用for循环方式的动态规划，非Memoization Search方式。DP可以在多项式时间复杂度内解决DFS需要指数级别的问题。常见的题目包括找最大最小，找可行性，找总方案数等，一般结果是一个Integer或者Boolean。动态规划有很多分支，暂时还没想好怎么去写这部分，后面想好了再具体写吧。
 * 常见题目：
   * Leetcode 674 Longest Continuous Increasing Subsequence (接龙型dp)
-  * Leetcode 62 Unique Paths II
-  * Leetcode 70 Climbing Stairs
+  * 很简单的题目 Leetcode 62 Unique Paths II
+  * 闭着眼睛都会 Leetcode 70 Climbing Stairs
   * 会做的题目 Leetcode 64 Minimum Path Sum
   * Leetcode 368 Largest Divisible Subset (接龙型dp)
   * Leetcode 300 Longest Increasing Subsequence (接龙型dp)
