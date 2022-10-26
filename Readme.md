@@ -179,14 +179,14 @@
   * Leetcode 1110 Delete Nodes And Return Forest (分治)
 * 二叉搜索树（BST）：BST特征：中序遍历为单调递增的二叉树，换句话说，根节点的值比左子树任意节点值都大，比右子树任意节点值都小，增删查改均为O（h）复杂度，h为树的高度；注意不是所有的BST题目都需要递归，有的题目只需要while循环即可
   * 做过 Leetcode 230 Kth Smallest element in a BST
-  * Leetcode 98 Validate Binary Search Tree
+  * 和333一样 98会做 333就会做 Leetcode 98 Validate Binary Search Tree
   * 做过 Leetcode 270 Cloest Binary Search Tree Value
   * Leetcode 235 Lowest Common Ancestor of a Binary Search Tree
   * 做过不会 分治 Leetcode 669 Trim a Binary Search Tree (分治)
   * 做过 Leetcode 700 Search in a Binary Search Tree
   * 做过 Leetcode 108 Convert Sorted Array to Binary Search Tree (分治)
-  * Leetcode 333 Largest BST Subtree (与98类似) (分治)
-  * Leetcode 285 Inorder Successor in BST (I, II)
+  * 再做一下 n的solution Leetcode 333 Largest BST Subtree (与98类似) (分治)
+  * 再做一下的题目 Leetcode 285 Inorder Successor in BST (I, II)
 * 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
   * 三道题都是一个讨论 Leetcode 341 Flatten Nested List Iterator (339 364)
   * 可以再做一下 Leetcode 394 Decode String
@@ -203,7 +203,7 @@
   * Leetcode 399 Evaluate Division
   * Leetcode 1274 Number of Ships in a Rectangle
   * 转化成树的结构 Leetcode 1376 Time Needed to Inform All Employees
-  * Leetcode 694 Number of Distinct Islands
+  * 可以再写一下 练手Leetcode 694 Number of Distinct Islands
   * 好做 可以再做一下练手 Leetcode 131 Palindrome Partitioning
 * 基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
   * 不用看了 闭着眼睛都会 Leetcode 17 Letter Combinations of a Phone Number
