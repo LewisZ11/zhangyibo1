@@ -170,13 +170,13 @@
   * 做过 Leetcode 101 Symmetric Tree (回溯 or 分治)
   * 做过 Leetcode 951 Flip Equivalent Binary Trees (分治)
   * Leetcode 236 Lowest Common Ancestor of a Binary Tree (相似题：235、1650) (回溯 or 分治)
-  * Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal (分治)
+  * 再做一下 Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal (分治)
   * 做过 Leetcode 104 Maximum Depth of Binary Tree (回溯 or 分治)
   * 做过 注意 minmax 就可以了 Leetcode 987 Vertical Order Traversal of a Binary Tree
   * Leetcode 1485 Clone Binary Tree With Random Pointer
-  * Leetcode 572 Subtree of Another Tree (分治)
+  * 想一下思路 Leetcode 572 Subtree of Another Tree (分治)
   * Leetcode 863 All Nodes Distance K in Binary Tree
-  * Leetcode 1110 Delete Nodes And Return Forest (分治)
+  * 再做一遍 Leetcode 1110 Delete Nodes And Return Forest (分治)
 * 二叉搜索树（BST）：BST特征：中序遍历为单调递增的二叉树，换句话说，根节点的值比左子树任意节点值都大，比右子树任意节点值都小，增删查改均为O（h）复杂度，h为树的高度；注意不是所有的BST题目都需要递归，有的题目只需要while循环即可
   * 做过 Leetcode 230 Kth Smallest element in a BST
   * 和333一样 98会做 333就会做 Leetcode 98 Validate Binary Search Tree
@@ -192,7 +192,7 @@
   * 可以再做一下 Leetcode 394 Decode String
   * 可以再做一下练手 Leetcode 51 N-Queens (I II基本相同)
   * 不会做 再做一遍 Leetcode 291 Word Pattern II (I为简单的Hashmap题)
-  * Leetcode 126 Word Ladder II （I为BFS题目）
+  * 不会做 再看一遍 Leetcode 126 Word Ladder II （I为BFS题目）
   * Leetcode 93 Restore IP Addresses
   * 做过 Leetcode 22 Generate Parentheses
   * 再做 不太会 和stack相关 Leetcode 856 Score of Parentheses
