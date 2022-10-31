@@ -89,10 +89,10 @@
   * Leetcode 69. Sqrt(x)
   * 再想一下思路 不用写了 Leetcode 540. Single Element in a Sorted Array
   * Leetcode 644. Maximum Average Subarray II
-  * Leetcode 528. Random Pick with Weight
+  * 再看一下思路 Leetcode 528. Random Pick with Weight
   * 做过了 可以看一下思路 Leetcode 1300. Sum of Mutated Array Closest to Target
   * 再做一下 Leetcode 1060. Missing Element in Sorted Array
-  * Leetcode 1062. Longest Repeating Substring
+  * 再看一下思路 Leetcode 1062. Longest Repeating Substring
   * 再看一下思路 两题选一题 Leetcode 1891. Cutting Ribbons
   * Leetcode 410. Split Array Largest Sum (与1891类似)
 
@@ -173,7 +173,7 @@
   * 再做一下 Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal (分治)
   * 做过 Leetcode 104 Maximum Depth of Binary Tree (回溯 or 分治)
   * 做过 注意 minmax 就可以了 Leetcode 987 Vertical Order Traversal of a Binary Tree
-  * Leetcode 1485 Clone Binary Tree With Random Pointer
+  * 再做一遍 挺值得思考的题目 Leetcode 1485 Clone Binary Tree With Random Pointer
   * 想一下思路 Leetcode 572 Subtree of Another Tree (分治)
   * Leetcode 863 All Nodes Distance K in Binary Tree
   * 再做一遍 Leetcode 1110 Delete Nodes And Return Forest (分治)
@@ -193,14 +193,14 @@
   * 可以再做一下练手 Leetcode 51 N-Queens (I II基本相同)
   * 不会做 再做一遍 Leetcode 291 Word Pattern II (I为简单的Hashmap题)
   * 不会做 再看一遍 Leetcode 126 Word Ladder II （I为BFS题目）
-  * Leetcode 93 Restore IP Addresses
+  * 再做一遍 练手 Leetcode 93 Restore IP Addresses
   * 做过 Leetcode 22 Generate Parentheses
   * 再做 不太会 和stack相关 Leetcode 856 Score of Parentheses
   * Leetcode 301 Remove Invalid Parentheses
   * 再看一下即可 Leetcode 37 Sodoku Solver
   * Leetcode 212 Word Search II （I, II）
   * 做过了 看一下思路 Leetcode 1087 Brace Expansion
-  * Leetcode 399 Evaluate Division
+  * 再看一下思路 Leetcode 399 Evaluate Division
   * Leetcode 1274 Number of Ships in a Rectangle
   * 转化成树的结构 Leetcode 1376 Time Needed to Inform All Employees
   * 可以再写一下 练手Leetcode 694 Number of Distinct Islands
