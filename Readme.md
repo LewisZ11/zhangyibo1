@@ -58,8 +58,8 @@
   * 再想一下思路 Leetcode 380. Insert Delete GetRandom O(1)
   * 再想一下思路 不用写了 Leetcode 49. Group Anagrams
   * 再想一下思路 Leetcode 350. Intersection of Two Arrays II
-  * Leetcode 299. Bulls and Cows
-  * Leetcode 348 Design Tic-Tac-Toe
+  * 再想一下思路 Leetcode 299. Bulls and Cows
+  * 会做 Leetcode 348 Design Tic-Tac-Toe
 * Heap／Priority Queue题目：
   * 做过 看一下即可Leetcode 973. K Closest Points
   * 做过 看一下即可 Leetcode 347. Top k Largest Elements
