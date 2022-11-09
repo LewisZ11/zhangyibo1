@@ -175,7 +175,7 @@
   * 做过 注意 minmax 就可以了 Leetcode 987 Vertical Order Traversal of a Binary Tree
   * 再做一遍 挺值得思考的题目 Leetcode 1485 Clone Binary Tree With Random Pointer
   * 想一下思路 Leetcode 572 Subtree of Another Tree (分治)
-  * Leetcode 863 All Nodes Distance K in Binary Tree
+  * 再做一遍 Leetcode 863 All Nodes Distance K in Binary Tree
   * 再做一遍 Leetcode 1110 Delete Nodes And Return Forest (分治)
 * 二叉搜索树（BST）：BST特征：中序遍历为单调递增的二叉树，换句话说，根节点的值比左子树任意节点值都大，比右子树任意节点值都小，增删查改均为O（h）复杂度，h为树的高度；注意不是所有的BST题目都需要递归，有的题目只需要while循环即可
   * 做过 Leetcode 230 Kth Smallest element in a BST
@@ -201,7 +201,7 @@
   * Leetcode 212 Word Search II （I, II）
   * 做过了 看一下思路 Leetcode 1087 Brace Expansion
   * 再看一下思路 Leetcode 399 Evaluate Division
-  * Leetcode 1274 Number of Ships in a Rectangle
+  * 再做一遍 练手 Leetcode 1274 Number of Ships in a Rectangle
   * 转化成树的结构 Leetcode 1376 Time Needed to Inform All Employees
   * 可以再写一下 练手Leetcode 694 Number of Distinct Islands
   * 好做 可以再做一下练手 Leetcode 131 Palindrome Partitioning
@@ -255,7 +255,7 @@
   * Leetcode 208 Implement Trie (Prefix Tree)
   * Leetcode 211 Design Add and Search Words Data Structure
   * 再做一下 Leetcode 1268 Search Suggestions System
-  * Leetcode 212 Word Search II
+  * 再做一下 Leetcode 212 Word Search II
   * Leetcode 1166 Design File System
 
 **单调栈与单调队列（Monotone Stack／Queue）**
