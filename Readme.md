@@ -264,9 +264,9 @@
 * 常见题目：
   * Leetcode 85 Maximum Rectangle
   * 再做一下的题目 练熟template Leetcode 84 Largest Rectangle in Histogram
-  * Leetcode 907 Sum of Subarray Minimums (与84类似)
+  * 再做一下题目 Leetcode 907 Sum of Subarray Minimums (与84类似)
   * 和84类似 Leetcode 739 Daily Temperatures
-  * Leetcode 901 Online Stock Span
+  * 可以再练一下 Leetcode 901 Online Stock Span
   * Leetcode 503 Next Greater Element II
   * Leetcode 239 Sliding Window Maximum （唯一的单调队列题）
 
