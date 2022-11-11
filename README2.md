@@ -10,9 +10,6 @@
   * 可以再做一下 练练手 Leetcode 27. Remove elements
 * 进阶题目：
   * 再做一下 Leetcode 179. Largest Number
-  * 换一种one-pass solution Leetcode 75. Sort Colors
-  * 再做一下 Leetcode 215. Kth Largest Element （可以用堆的解法替代）
-  * 再写一下那个方法 Leetcode 4. Median of Two Sorted Arrays
 
 注意：后两题是与快速排序非常相似的快速选择（Quick Select）算法，面试中很常考
 
@@ -20,20 +17,16 @@
 
 * 基础知识：链表如何实现，如何遍历链表。链表可以保证头部尾部插入删除操作都是O（1），查找任意元素位置O（N）
 * 基础题目：
-  * next.pre.cur Leetcode 206. Reverse Linked List
 
 注意：快慢指针和链表反转几乎是所有链表类问题的基础，尤其是反转链表，代码很短，建议直接背熟。
 
 * 进阶题目:
-  * 再看一下那个O(1)SOLUTION的方法 Leetcode 160. Intersection of Two Linked Lists
   * 再做一遍 练手 Leetcode 92. Reverse Linked List II
-  * 再做一遍 注意corner case Leetcode 328. Odd Even Linked List
 
 **堆（Heap or Priority Queue）、栈（Stack）、队列（Queue）、哈希表类（Hashmap、Hashset）：**
 
 * 基础知识：各个数据结构的基本原理，增删查改复杂度。
 * Queue题目：
-  * 值得做的题目 Leetcode 281. Zigzag Iterator
   * 再做一遍 Leetcode 1429. First Unique Number
   * 再做一下 Leetcode 54. Spiral Matrix
 * Stack题目：
@@ -44,8 +37,6 @@
   * 想一下思路 可以再写一下 Leetcode 128. Longest Consecutive Sequence
 * Heap／Priority Queue题目：
   * 要再做一下 用动态规划做会更好 Leetcode 264. Ugly Number II
-  * 做过 可以再做一下练手 Leetcode 1086. High Five
-  * 再做一遍 熟一下讨论 Leetcode 692. Top K Frequent Words
   * 再做一遍 Leetcode 378. Kth Smallest Element in a Sorted Matrix
   * 再做一遍 Leetcode 295. Find Median from Data Stream （标准解法是双heap，但是SortedDict会非常容易）
   * 再做一下 想一下那个思路 Leetcode 767. Reorganize String
@@ -56,7 +47,6 @@
 
 * 基础知识：二分法是用来解法基本模板，时间复杂度logN；常见的二分法题目可以分为两大类，显式与隐式，即是否能从字面上一眼看出二分法的特点：要查找的数据是否可以分为两部分，前半部分为X，后半部分为O
 * 显式二分法：
-  * 多做几次 练熟 template Leetcode 34. Find First and Last Position of Element in Sorted Array
   * Leetcode 33. Search in Rotated Sorted Array
   * 可以再做几遍 Leetcode 1095. Find in Mountain Array
   * Leetcode 74. Search a 2D Matrix
