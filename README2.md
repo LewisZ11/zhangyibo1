@@ -98,8 +98,6 @@
   * 除了遍历之外多数情况下时间复杂度是指数级别，一般是O(方案数×找到每个方案的时间复杂度)
   * 递归题目都可以用非递归迭代的方法写，但一般实现起来非常麻烦
 * 基于树的DFS：需要记住递归写前序中序后序遍历二叉树的模板
-  * 做过 有点难 可以在做 Leetcode 124 Binary Tree Maximum Path Sum (分治)
-  * 再做一下 Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal (分治)
   * 再做一遍 挺值得思考的题目 Leetcode 1485 Clone Binary Tree With Random Pointer
   * 再做一遍 Leetcode 863 All Nodes Distance K in Binary Tree
   * 再做一遍 Leetcode 1110 Delete Nodes And Return Forest (分治)
@@ -109,7 +107,6 @@
   * 再做一下 n的solution Leetcode 333 Largest BST Subtree (与98类似) (分治)
   * 再做一下的题目 Leetcode 285 Inorder Successor in BST (I, II)
 * 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
-  * 三道题都是一个讨论 Leetcode 341 Flatten Nested List Iterator (339 364)
   * 可以再做一下 Leetcode 394 Decode String
   * 可以再做一下练手 Leetcode 51 N-Queens (I II基本相同)
   * 不会做 再做一遍 Leetcode 291 Word Pattern II (I为简单的Hashmap题)
@@ -207,9 +204,6 @@
 * 基础知识：这里指的是用for循环方式的动态规划，非Memoization Search方式。DP可以在多项式时间复杂度内解决DFS需要指数级别的问题。常见的题目包括找最大最小，找可行性，找总方案数等，一般结果是一个Integer或者Boolean。动态规划有很多分支，暂时还没想好怎么去写这部分，后面想好了再具体写吧。
 * 常见题目：
   * Leetcode 674 Longest Continuous Increasing Subsequence (接龙型dp)
-  * 很简单的题目 Leetcode 62 Unique Paths II
-  * 闭着眼睛都会 Leetcode 70 Climbing Stairs
-  * 会做的题目 Leetcode 64 Minimum Path Sum
   * Leetcode 368 Largest Divisible Subset (接龙型dp)
   * Leetcode 300 Longest Increasing Subsequence (接龙型dp)
   * 再做一遍的题目 Leetcode 354 Russian Doll Envelopes (接龙型dp， 300的2D版)
