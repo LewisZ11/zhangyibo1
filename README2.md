@@ -31,14 +31,12 @@
   * 再做一下 Leetcode 54. Spiral Matrix
 * Stack题目：
   * 再做一下 Leetcode 224. Basic Calculator II (I, II, III, IV)
-  * 可以在做一下 Leetcode 735. Asteroid Collision
 * Hashmap/ Hashset题目：
   * Leetcode 146. LRU Cache (Python中可以使用OrderedDict来代替)
   * 想一下思路 可以再写一下 Leetcode 128. Longest Consecutive Sequence
 * Heap／Priority Queue题目：
   * 要再做一下 用动态规划做会更好 Leetcode 264. Ugly Number II
   * 再做一遍 Leetcode 378. Kth Smallest Element in a Sorted Matrix
-  * 再做一遍 Leetcode 295. Find Median from Data Stream （标准解法是双heap，但是SortedDict会非常容易）
   * 再做一下 想一下那个思路 Leetcode 767. Reorganize String
   * 单调队列尝试再做一下 想一下思路 Leetcode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (这个题用单调双端队列、TreeMap、双heap都可以)
 
@@ -202,10 +200,7 @@
   * Leetcode 368 Largest Divisible Subset (接龙型dp)
   * Leetcode 300 Longest Increasing Subsequence (接龙型dp)
   * 再做一遍的题目 Leetcode 354 Russian Doll Envelopes (接龙型dp， 300的2D版)
-  * Leetcode 256 Paint House
   * Leetcode 121 Best Time to Buy and Sell Stock
-  * 思考一下55和45的逻辑 可做可不做 Leetcode 55 Jump Game
-  * 思考一下55和45的逻辑 Leetcode 45 Jump Game II
   * 可以再做一遍 Leetcode 132 Palindrome Partitioning II
   * Leetcode 312 Burst Balloons (区间型dp)
   * 看一下思路即可 Leetcode 1143 Longest Common Subsequence (前缀型dp)
@@ -224,8 +219,6 @@
   * 和198一样 再做一遍 Leetcode 740 Delete and Earn
   * Leetcode 87 Scramble String
   * Leetcode 1140 Stone Game II
-  * 再看一遍 Leetcode 322 Coin Change
-  * 再做一遍 Leetcode 518 Coin Change II (01背包型)
   * Leetcode 1048 Longest String Chain
   * 和72之类的很像 都是编辑字符串的题目 Leetcode 44 [Wildcard Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/wildcard-matching)
   * Leetcode 10 [Regular Expression Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/regular-expression-matching)
