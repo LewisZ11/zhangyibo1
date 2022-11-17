@@ -28,7 +28,6 @@
 * 基础知识：各个数据结构的基本原理，增删查改复杂度。
 * Queue题目：
   * 再做一遍 Leetcode 1429. First Unique Number
-  * 再做一下 Leetcode 54. Spiral Matrix
 * Stack题目：
   * 再做一下 Leetcode 224. Basic Calculator II (I, II, III, IV)
 * Hashmap/ Hashset题目：
@@ -46,23 +45,18 @@
 * 基础知识：二分法是用来解法基本模板，时间复杂度logN；常见的二分法题目可以分为两大类，显式与隐式，即是否能从字面上一眼看出二分法的特点：要查找的数据是否可以分为两部分，前半部分为X，后半部分为O
 * 显式二分法：
   * Leetcode 33. Search in Rotated Sorted Array
-  * 可以再做几遍 Leetcode 1095. Find in Mountain Array
   * Leetcode 74. Search a 2D Matrix
   * 再写一下练手 和二分法关系不大 Leetcode 240. Search a 2D Matrix II
 * 隐式二分法：
   * Leetcode 69. Sqrt(x)
   * Leetcode 644. Maximum Average Subarray II
   * 再做一下 Leetcode 1060. Missing Element in Sorted Array
-  * Leetcode 410. Split Array Largest Sum (与1891类似)
 
 **双指针（2 Pointer）：**
 
 * 基础知识：常见双指针算法分为三类，同向（即两个指针都相同一个方向移动），背向（两个指针从相同或者相邻的位置出发，背向移动直到其中一根指针到达边界为止），相向（两个指针从两边出发一起向中间移动直到两个指针相遇）
 * 背向双指针：(基本上全是回文串的题)
 * 相向双指针：(以two sum为基础的一系列题)
-  * 再做一下 练个手 Leetcode 16. 3Sum Closest
-  * Leetcode 18. 4Sum
-  * Leetcode 454. 4Sum II
   * 再做一下 不会写 Leetcode 277. Find the Celebrity
 * 同向双指针：（个人觉得最难的一类题，可以参考下这里 [TimothyL：Leetcode 同向双指针/滑动窗口类代码模板](https://zhuanlan.zhihu.com/p/390570255)）
   * 重新再写一遍 Leetcode 395. Longest Substring with At Least K Repeating Characters
@@ -75,18 +69,13 @@
 * BFS基本模板（需要记录层数或者不需要记录层数）
 * 多数情况下时间复杂度空间复杂度都是O（N+M），N为节点个数，M为边的个数
 * 基于树的BFS：不需要专门一个set来记录访问过的节点
-  * 多做几遍的题目 Leetcode 103 Binary Tree Zigzag Level Order Traversal
   * DFS/BFS多尝试 多做几遍 Leetcode 297 Serialize and Deserialize Binary Tree （很好的BFS和双指针结合的题）
-  * 想一下思路 可以做一遍 Leetcode 314 Binary Tree Vertical Order Traversal
 * 基于图的BFS：（一般需要一个set来记录访问过的节点）
   * 再做一下 练手 Leetcode 127. Word Ladder
-  * 再做一下 练手 Leetcode 490. The Maze
   * 再做一下 Leetcode 815. Bus Routes
-  * 再做一下这道题 Leetcode 542. 01 Matrix
   * Leetcode 417. Pacific Atlantic Water Flow
 * 拓扑排序：（[https://**zh.wikipedia.org/wiki/%**E6%8B%93%E6%92%B2%E6%8E%92%E5%BA%8F](https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E6%258B%2593%25E6%2592%25B2%25E6%258E%2592%25E5%25BA%258F)）
   * 不会做 Leetcode 444 Sequence Reconstruction
-  * 再想一下 也可以再写一遍 Leetcode 310 Minimum Height Trees
 
  **深度优先搜索（DFS）：** 面试中最常考的（分类的稍微有点粗糙了，没有细分出回溯/分治来，准备找个时间给每个DFS的题标记下是哪种DFS）
 
@@ -119,9 +108,6 @@
   * 可以再写一下 练手Leetcode 694 Number of Distinct Islands
   * 好做 可以再做一下练手 Leetcode 131 Palindrome Partitioning
 * 基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
-  * 想一下如何去重的思路 Leetcode 39 Combination Sum（I, II, III相似， IV为动态规划题目）
-  * 90 要注意 可以再做几遍Leetcode 78 Subsets （I, II 重点在于如何去重）
-  * 60 和组合的思想差不多 更好做一点 Leetcode 46 Permutation (I, II 重点在于如何去重)
   * 可以再做一下练手 Leetcode 698 Partition to K Equal Sum Subsets
   * 排列问题 Leetcode 526 Beautiful Arrangement (similar to 46)
 * 记忆化搜索（DFS + Memoization Search）：算是用递归的方式实现动态规划，递归每次返回时同时记录下已访问过的节点特征，避免重复访问同一个节点，可以有效的把指数级别的DFS时间复杂度降为多项式级别; 注意这一类的DFS必须在最后有返回值（分治法），不可以用回溯法; for循环的dp题目都可以用记忆化搜索的方式写，但是不是所有的记忆化搜索题目都可以用for循环的dp方式写。
