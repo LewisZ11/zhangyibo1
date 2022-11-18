@@ -111,11 +111,8 @@
   * 可以再做一下练手 Leetcode 698 Partition to K Equal Sum Subsets
   * 排列问题 Leetcode 526 Beautiful Arrangement (similar to 46)
 * 记忆化搜索（DFS + Memoization Search）：算是用递归的方式实现动态规划，递归每次返回时同时记录下已访问过的节点特征，避免重复访问同一个节点，可以有效的把指数级别的DFS时间复杂度降为多项式级别; 注意这一类的DFS必须在最后有返回值（分治法），不可以用回溯法; for循环的dp题目都可以用记忆化搜索的方式写，但是不是所有的记忆化搜索题目都可以用for循环的dp方式写。
-  * 和97题一样的逻辑 Leetcode 72 Edit Distance
   * Leetcode 1235 [Maximum Profit in Job Scheduling](https://link.zhihu.com/?target=https%3A//leetcode.com/explore/item/3950)
   * 做过的题目 有点难写 多做几遍 Leetcode 1335 Minimum Difficulty of a Job Schedule
-  * 和516一摸一样 理解了就比较简单了 Leetcode 1216 Valid Palindrome III
-  * dp方法 和字符串那几题可以一起总结 Leetcode 97 Interleaving String
   * Leetcode 403 Frog Jump
 
 **前缀和（Prefix Sum）**
