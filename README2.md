@@ -39,7 +39,6 @@
 * 基础知识：二分法是用来解法基本模板，时间复杂度logN；常见的二分法题目可以分为两大类，显式与隐式，即是否能从字面上一眼看出二分法的特点：要查找的数据是否可以分为两部分，前半部分为X，后半部分为O
 * 显式二分法：
   * Leetcode 33. Search in Rotated Sorted Array
-  * Leetcode 74. Search a 2D Matrix
   * 再写一下练手 和二分法关系不大 Leetcode 240. Search a 2D Matrix II
 * 隐式二分法：
   * Leetcode 69. Sqrt(x)
