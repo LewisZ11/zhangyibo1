@@ -5,11 +5,7 @@
 
 * 基础知识：快速排序（Quick Sort）， 归并排序（Merge Sort）的原理与代码实现。需要能讲明白代码中每一行的目的。快速排序时间复杂度平均状态下O（NlogN），空间复杂度O（1），归并排序最坏情况下时间复杂度O（NlogN），空间复杂度O（N）
 * 入门题目：
-  * 做过了 可以练练手 Leetcode 148. Sort List
-  * 会做 可以以后练练手 Leetcode 56. Merge Intervals
-  * 可以再做一下 练练手 Leetcode 27. Remove elements
 * 进阶题目：
-  * 再做一下 Leetcode 179. Largest Number
 
 注意：后两题是与快速排序非常相似的快速选择（Quick Select）算法，面试中很常考
 
@@ -21,13 +17,11 @@
 注意：快慢指针和链表反转几乎是所有链表类问题的基础，尤其是反转链表，代码很短，建议直接背熟。
 
 * 进阶题目:
-  * 再做一遍 练手 Leetcode 92. Reverse Linked List II
 
 **堆（Heap or Priority Queue）、栈（Stack）、队列（Queue）、哈希表类（Hashmap、Hashset）：**
 
 * 基础知识：各个数据结构的基本原理，增删查改复杂度。
 * Queue题目：
-  * 再做一遍 Leetcode 1429. First Unique Number
 * Stack题目：
   * 再做一下 Leetcode 224. Basic Calculator II (I, II, III, IV)
 * Hashmap/ Hashset题目：
