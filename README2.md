@@ -86,7 +86,6 @@
   * 再做一下 n的solution Leetcode 333 Largest BST Subtree (与98类似) (分治)
   * 再做一下的题目 Leetcode 285 Inorder Successor in BST (I, II)
 * 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
-  * 可以再做一下 Leetcode 394 Decode String
   * 可以再做一下练手 Leetcode 51 N-Queens (I II基本相同)
   * 不会做 再做一遍 Leetcode 291 Word Pattern II (I为简单的Hashmap题)
   * 不会做 再看一遍 Leetcode 126 Word Ladder II （I为BFS题目）
