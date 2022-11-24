@@ -31,7 +31,6 @@
   * 要再做一下 用动态规划做会更好 Leetcode 264. Ugly Number II
   * 再做一遍 Leetcode 378. Kth Smallest Element in a Sorted Matrix
   * 再做一下 想一下那个思路 Leetcode 767. Reorganize String
-  * 单调队列尝试再做一下 想一下思路 Leetcode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (这个题用单调双端队列、TreeMap、双heap都可以)
 
 
 **二分法（Binary Search）：**
@@ -41,9 +40,7 @@
   * Leetcode 33. Search in Rotated Sorted Array
   * 再写一下练手 和二分法关系不大 Leetcode 240. Search a 2D Matrix II
 * 隐式二分法：
-  * Leetcode 69. Sqrt(x)
   * Leetcode 644. Maximum Average Subarray II
-  * 再做一下 Leetcode 1060. Missing Element in Sorted Array
 
 **双指针（2 Pointer）：**
 
