@@ -159,19 +159,13 @@
 
 * 基础知识：这里指的是用for循环方式的动态规划，非Memoization Search方式。DP可以在多项式时间复杂度内解决DFS需要指数级别的问题。常见的题目包括找最大最小，找可行性，找总方案数等，一般结果是一个Integer或者Boolean。动态规划有很多分支，暂时还没想好怎么去写这部分，后面想好了再具体写吧。
 * 常见题目：
-  * Leetcode 674 Longest Continuous Increasing Subsequence (接龙型dp)
-  * Leetcode 368 Largest Divisible Subset (接龙型dp)
-  * Leetcode 300 Longest Increasing Subsequence (接龙型dp)
-  * 再做一遍的题目 Leetcode 354 Russian Doll Envelopes (接龙型dp， 300的2D版)
   * Leetcode 121 Best Time to Buy and Sell Stock
-  * 可以再做一遍 Leetcode 132 Palindrome Partitioning II
   * Leetcode 312 Burst Balloons (区间型dp)
   * 看一下思路即可 Leetcode 1143 Longest Common Subsequence (前缀型dp)
   * 可以再练习一下二分法 和1143感觉没什么关系 Leetcode 1062 Longest Repeating Substring (dp方法与longest common substring一致)
   * 思考718和1143的区别和corner case 一个是必须接上 Leetcode 718 Maximum Length of Repeated Subarray (和1062本质上一样)
   * 再做一遍 考虑 Leetcode 174 Dungeon Game
   * 再做一遍 思考 718，1143，115 关系Leetcode 115 Distinct Subsequences
-  * 承接 想一下思路Leetcode 91 Decode Ways
   * 再做一遍 Leetcode 639 Decode Ways II
   * Leetcode 712 Minimum ASCII Delete Sum for Two Strings
   * 可能在下面出现0 有点triky Leetcode 221 Maximal Square
