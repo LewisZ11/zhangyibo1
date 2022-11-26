@@ -46,9 +46,7 @@
 * 基础知识：常见双指针算法分为三类，同向（即两个指针都相同一个方向移动），背向（两个指针从相同或者相邻的位置出发，背向移动直到其中一根指针到达边界为止），相向（两个指针从两边出发一起向中间移动直到两个指针相遇）
 * 背向双指针：(基本上全是回文串的题)
 * 相向双指针：(以two sum为基础的一系列题)
-  * 再做一下 不会写 Leetcode 277. Find the Celebrity
 * 同向双指针：（个人觉得最难的一类题，可以参考下这里 [TimothyL：Leetcode 同向双指针/滑动窗口类代码模板](https://zhuanlan.zhihu.com/p/390570255)）
-  * 再写一遍 Leetcode 76. Minimum Window Substring
 
  **宽度优先搜索（BFS）：** 面试中最常考的
 
@@ -59,8 +57,6 @@
 * 基于树的BFS：不需要专门一个set来记录访问过的节点
   * DFS/BFS多尝试 多做几遍 Leetcode 297 Serialize and Deserialize Binary Tree （很好的BFS和双指针结合的题）
 * 基于图的BFS：（一般需要一个set来记录访问过的节点）
-  * 再做一下 练手 Leetcode 127. Word Ladder
-  * 再做一下 Leetcode 815. Bus Routes
   * Leetcode 417. Pacific Atlantic Water Flow
 * 拓扑排序：（[https://**zh.wikipedia.org/wiki/%**E6%8B%93%E6%92%B2%E6%8E%92%E5%BA%8F](https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E6%258B%2593%25E6%2592%25B2%25E6%258E%2592%25E5%25BA%258F)）
   * 不会做 Leetcode 444 Sequence Reconstruction
@@ -74,7 +70,6 @@
   * 递归题目都可以用非递归迭代的方法写，但一般实现起来非常麻烦
 * 基于树的DFS：需要记住递归写前序中序后序遍历二叉树的模板
   * 再做一遍 挺值得思考的题目 Leetcode 1485 Clone Binary Tree With Random Pointer
-  * 再做一遍 Leetcode 863 All Nodes Distance K in Binary Tree
 * 二叉搜索树（BST）：BST特征：中序遍历为单调递增的二叉树，换句话说，根节点的值比左子树任意节点值都大，比右子树任意节点值都小，增删查改均为O（h）复杂度，h为树的高度；注意不是所有的BST题目都需要递归，有的题目只需要while循环即可
   * Leetcode 235 Lowest Common Ancestor of a Binary Search Tree
   * 做过不会 分治 Leetcode 669 Trim a Binary Search Tree (分治)
