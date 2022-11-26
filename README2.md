@@ -38,7 +38,6 @@
 * 基础知识：二分法是用来解法基本模板，时间复杂度logN；常见的二分法题目可以分为两大类，显式与隐式，即是否能从字面上一眼看出二分法的特点：要查找的数据是否可以分为两部分，前半部分为X，后半部分为O
 * 显式二分法：
   * Leetcode 33. Search in Rotated Sorted Array
-  * 再写一下练手 和二分法关系不大 Leetcode 240. Search a 2D Matrix II
 * 隐式二分法：
   * Leetcode 644. Maximum Average Subarray II
 
@@ -49,7 +48,6 @@
 * 相向双指针：(以two sum为基础的一系列题)
   * 再做一下 不会写 Leetcode 277. Find the Celebrity
 * 同向双指针：（个人觉得最难的一类题，可以参考下这里 [TimothyL：Leetcode 同向双指针/滑动窗口类代码模板](https://zhuanlan.zhihu.com/p/390570255)）
-  * 重新再写一遍 Leetcode 395. Longest Substring with At Least K Repeating Characters
   * 再写一遍 Leetcode 76. Minimum Window Substring
 
  **宽度优先搜索（BFS）：** 面试中最常考的
