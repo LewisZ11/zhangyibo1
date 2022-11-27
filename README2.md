@@ -86,7 +86,6 @@
   * 再做一遍 练手 Leetcode 1274 Number of Ships in a Rectangle
   * 转化成树的结构 Leetcode 1376 Time Needed to Inform All Employees
   * 可以再写一下 练手Leetcode 694 Number of Distinct Islands
-  * 好做 可以再做一下练手 Leetcode 131 Palindrome Partitioning
 * 基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
   * 可以再做一下练手 Leetcode 698 Partition to K Equal Sum Subsets
   * 排列问题 Leetcode 526 Beautiful Arrangement (similar to 46)
@@ -159,7 +158,6 @@
 
 * 基础知识：这里指的是用for循环方式的动态规划，非Memoization Search方式。DP可以在多项式时间复杂度内解决DFS需要指数级别的问题。常见的题目包括找最大最小，找可行性，找总方案数等，一般结果是一个Integer或者Boolean。动态规划有很多分支，暂时还没想好怎么去写这部分，后面想好了再具体写吧。
 * 常见题目：
-  * Leetcode 121 Best Time to Buy and Sell Stock
   * Leetcode 312 Burst Balloons (区间型dp)
   * 看一下思路即可 Leetcode 1143 Longest Common Subsequence (前缀型dp)
   * 可以再练习一下二分法 和1143感觉没什么关系 Leetcode 1062 Longest Repeating Substring (dp方法与longest common substring一致)
@@ -167,12 +165,6 @@
   * 再做一遍 考虑 Leetcode 174 Dungeon Game
   * 再做一遍 思考 718，1143，115 关系Leetcode 115 Distinct Subsequences
   * 再做一遍 Leetcode 639 Decode Ways II
-  * Leetcode 712 Minimum ASCII Delete Sum for Two Strings
-  * 可能在下面出现0 有点triky Leetcode 221 Maximal Square
-  * 可以再写一遍 练手感 Leetcode 1277 Count Square Submatrices with All Ones (可以使用221一样的解法)
-  * Leetcode 87 Scramble String
-  * Leetcode 1140 Stone Game II
-  * Leetcode 1048 Longest String Chain
   * 和72之类的很像 都是编辑字符串的题目 Leetcode 44 [Wildcard Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/wildcard-matching)
   * Leetcode 10 [Regular Expression Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/regular-expression-matching)
   * Leetcode 32 Longest Valid Parentheses
