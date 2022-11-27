@@ -76,16 +76,10 @@
   * 再做一下 n的solution Leetcode 333 Largest BST Subtree (与98类似) (分治)
   * 再做一下的题目 Leetcode 285 Inorder Successor in BST (I, II)
 * 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
-  * 可以再做一下练手 Leetcode 51 N-Queens (I II基本相同)
   * 不会做 再做一遍 Leetcode 291 Word Pattern II (I为简单的Hashmap题)
   * 不会做 再看一遍 Leetcode 126 Word Ladder II （I为BFS题目）
   * 再做 不太会 和stack相关 Leetcode 856 Score of Parentheses
   * Leetcode 301 Remove Invalid Parentheses
-  * Leetcode 212 Word Search II （I, II）
-  * 再看一下思路 Leetcode 399 Evaluate Division
-  * 再做一遍 练手 Leetcode 1274 Number of Ships in a Rectangle
-  * 转化成树的结构 Leetcode 1376 Time Needed to Inform All Employees
-  * 可以再写一下 练手Leetcode 694 Number of Distinct Islands
 * 基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
   * 可以再做一下练手 Leetcode 698 Partition to K Equal Sum Subsets
   * 排列问题 Leetcode 526 Beautiful Arrangement (similar to 46)
