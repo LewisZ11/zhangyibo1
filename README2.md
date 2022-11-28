@@ -76,13 +76,11 @@
   * 再做一下 n的solution Leetcode 333 Largest BST Subtree (与98类似) (分治)
   * 再做一下的题目 Leetcode 285 Inorder Successor in BST (I, II)
 * 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
-  * 不会做 再做一遍 Leetcode 291 Word Pattern II (I为简单的Hashmap题)
-  * 不会做 再看一遍 Leetcode 126 Word Ladder II （I为BFS题目）
+  * 不会做 再看一遍 有问题 Leetcode 126 Word Ladder II （I为BFS题目）
   * 再做 不太会 和stack相关 Leetcode 856 Score of Parentheses
   * Leetcode 301 Remove Invalid Parentheses
 * 基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
   * 可以再做一下练手 Leetcode 698 Partition to K Equal Sum Subsets
-  * 排列问题 Leetcode 526 Beautiful Arrangement (similar to 46)
 * 记忆化搜索（DFS + Memoization Search）：算是用递归的方式实现动态规划，递归每次返回时同时记录下已访问过的节点特征，避免重复访问同一个节点，可以有效的把指数级别的DFS时间复杂度降为多项式级别; 注意这一类的DFS必须在最后有返回值（分治法），不可以用回溯法; for循环的dp题目都可以用记忆化搜索的方式写，但是不是所有的记忆化搜索题目都可以用for循环的dp方式写。
   * Leetcode 1235 [Maximum Profit in Job Scheduling](https://link.zhihu.com/?target=https%3A//leetcode.com/explore/item/3950)
   * 做过的题目 有点难写 多做几遍 Leetcode 1335 Minimum Difficulty of a Job Schedule
@@ -154,9 +152,7 @@
 * 常见题目：
   * Leetcode 312 Burst Balloons (区间型dp)
   * 看一下思路即可 Leetcode 1143 Longest Common Subsequence (前缀型dp)
-  * 可以再练习一下二分法 和1143感觉没什么关系 Leetcode 1062 Longest Repeating Substring (dp方法与longest common substring一致)
   * 思考718和1143的区别和corner case 一个是必须接上 Leetcode 718 Maximum Length of Repeated Subarray (和1062本质上一样)
-  * 再做一遍 考虑 Leetcode 174 Dungeon Game
   * 再做一遍 思考 718，1143，115 关系Leetcode 115 Distinct Subsequences
   * 再做一遍 Leetcode 639 Decode Ways II
   * 和72之类的很像 都是编辑字符串的题目 Leetcode 44 [Wildcard Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/wildcard-matching)
