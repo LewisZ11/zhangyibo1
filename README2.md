@@ -79,7 +79,6 @@
   * 不会做 再看一遍 有问题 Leetcode 126 Word Ladder II （I为BFS题目）
 * 基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
 * 记忆化搜索（DFS + Memoization Search）：算是用递归的方式实现动态规划，递归每次返回时同时记录下已访问过的节点特征，避免重复访问同一个节点，可以有效的把指数级别的DFS时间复杂度降为多项式级别; 注意这一类的DFS必须在最后有返回值（分治法），不可以用回溯法; for循环的dp题目都可以用记忆化搜索的方式写，但是不是所有的记忆化搜索题目都可以用for循环的dp方式写。
-  * Leetcode 1235 [Maximum Profit in Job Scheduling](https://link.zhihu.com/?target=https%3A//leetcode.com/explore/item/3950)
 
 **前缀和（Prefix Sum）**
 
@@ -146,13 +145,7 @@
 * 基础知识：这里指的是用for循环方式的动态规划，非Memoization Search方式。DP可以在多项式时间复杂度内解决DFS需要指数级别的问题。常见的题目包括找最大最小，找可行性，找总方案数等，一般结果是一个Integer或者Boolean。动态规划有很多分支，暂时还没想好怎么去写这部分，后面想好了再具体写吧。
 * 常见题目：
   * Leetcode 312 Burst Balloons (区间型dp)
-  * 看一下思路即可 Leetcode 1143 Longest Common Subsequence (前缀型dp)
-  * 思考718和1143的区别和corner case 一个是必须接上 Leetcode 718 Maximum Length of Repeated Subarray (和1062本质上一样)
-  * 再做一遍 思考 718，1143，115 关系Leetcode 115 Distinct Subsequences
   * 再做一遍 Leetcode 639 Decode Ways II
-  * 和72之类的很像 都是编辑字符串的题目 Leetcode 44 [Wildcard Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/wildcard-matching)
   * Leetcode 10 [Regular Expression Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/regular-expression-matching)
-  * Leetcode 32 Longest Valid Parentheses
-  * 再做一遍 再思考的题目 Leetcode 1235 Maximum Profit in Job Scheduling (DP + binary search)
   * 再做一遍 第一遍没看清题目意思 Leetcode 1043 Partition Array for Maximum Sum
   * 想想思路 和dp不太像 Leetcode 926 Flip String to Monotone Increasing
