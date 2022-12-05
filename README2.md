@@ -144,8 +144,5 @@
 
 * 基础知识：这里指的是用for循环方式的动态规划，非Memoization Search方式。DP可以在多项式时间复杂度内解决DFS需要指数级别的问题。常见的题目包括找最大最小，找可行性，找总方案数等，一般结果是一个Integer或者Boolean。动态规划有很多分支，暂时还没想好怎么去写这部分，后面想好了再具体写吧。
 * 常见题目：
-  * Leetcode 312 Burst Balloons (区间型dp)
-  * 再做一遍 Leetcode 639 Decode Ways II
   * Leetcode 10 [Regular Expression Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/regular-expression-matching)
   * 再做一遍 第一遍没看清题目意思 Leetcode 1043 Partition Array for Maximum Sum
-  * 想想思路 和dp不太像 Leetcode 926 Flip String to Monotone Increasing
