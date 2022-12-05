@@ -25,11 +25,9 @@
 * Stack题目：
   * 再做一下 Leetcode 224. Basic Calculator II (I, II, III, IV)
 * Hashmap/ Hashset题目：
-  * Leetcode 146. LRU Cache (Python中可以使用OrderedDict来代替)
   * 想一下思路 可以再写一下 Leetcode 128. Longest Consecutive Sequence
 * Heap／Priority Queue题目：
   * 要再做一下 用动态规划做会更好 Leetcode 264. Ugly Number II
-  * 再做一遍 Leetcode 378. Kth Smallest Element in a Sorted Matrix
   * 再做一下 想一下那个思路 Leetcode 767. Reorganize String
 
 
