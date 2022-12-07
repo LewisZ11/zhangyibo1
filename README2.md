@@ -70,7 +70,6 @@
   * 再做一遍 挺值得思考的题目 Leetcode 1485 Clone Binary Tree With Random Pointer
 * 二叉搜索树（BST）：BST特征：中序遍历为单调递增的二叉树，换句话说，根节点的值比左子树任意节点值都大，比右子树任意节点值都小，增删查改均为O（h）复杂度，h为树的高度；注意不是所有的BST题目都需要递归，有的题目只需要while循环即可
   * Leetcode 235 Lowest Common Ancestor of a Binary Search Tree
-  * 做过不会 分治 Leetcode 669 Trim a Binary Search Tree (分治)
   * 再做一下 n的solution Leetcode 333 Largest BST Subtree (与98类似) (分治)
   * 再做一下的题目 Leetcode 285 Inorder Successor in BST (I, II)
 * 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
@@ -142,5 +141,4 @@
 
 * 基础知识：这里指的是用for循环方式的动态规划，非Memoization Search方式。DP可以在多项式时间复杂度内解决DFS需要指数级别的问题。常见的题目包括找最大最小，找可行性，找总方案数等，一般结果是一个Integer或者Boolean。动态规划有很多分支，暂时还没想好怎么去写这部分，后面想好了再具体写吧。
 * 常见题目：
-  * Leetcode 10 [Regular Expression Matching](https://link.zhihu.com/?target=https%3A//leetcode.com/problems/regular-expression-matching)
   * 再做一遍 第一遍没看清题目意思 Leetcode 1043 Partition Array for Maximum Sum
